@@ -1,2 +1,2 @@
-# cpp-template
-Simple template for projects using CMake
+# ray tracer
+Simple ray tracer following the "Ray Tracing In One Weekend" book.
